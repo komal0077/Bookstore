@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "name":"Story telling",
+ "title": "Book includes story like love,motivational,suspense etc",
+ "price":0,
+ "category":"Free",
+"image":"https://img.freepik.com/free-vector/book-with-fairies-flying-garden_1308-36771.jpg?t=st=1723394212~exp=1723397812~hmac=2296e977374a3b0b3d014033d630f8a0ed719299ce6de8424699089e0b81d74c&w=740"
+
+
+    },
+    {
+        "id":2,
+        "name":"Sports book",
+ "title": "Includes all the details regarding sports and athelits",
+ "price":0,
+ "category":"Free",
+"image":"https://img.freepik.com/free-vector/sport-flyer-template-with-photo_23-2148344320.jpg?uid=R158565174&ga=GA1.1.43097808.1723290559&semt=ais_hybrid"
+
+    },
+    {
+        "id":3,
+        "name":"Entertainment",
+ "title": "Includes all the entertainment purpose ",
+ "price":0,
+ "category":"Free",
+"image":"https://img.freepik.com/free-psd/book-cover-template-with-vinyl_23-2147702823.jpg?uid=R158565174&ga=GA1.1.43097808.1723290559&semt=ais_hybrid"
+
+    },
+    {
+        "id":4,
+        "name":"Food book",
+ "title": "Includes all the details regarding sports and athelits",
+ "price":200,
+ "category":"Food",
+"image":"https://img.freepik.com/free-vector/hand-drawn-recipe-book-template_23-2149284338.jpg?uid=R158565174&ga=GA1.1.43097808.1723290559&semt=ais_hybrid"
+
+    },
+    {
+        "id":5,
+        "name":"Literature book",
+ "title": "Includes all the entertainment purpose ",
+ "price":500,
+ "category":"Literature",
+"image":"https://img.freepik.com/free-photo/old-books-arrangement-with-light_23-2148898296.jpg?uid=R158565174&ga=GA1.1.43097808.1723290559&semt=ais_hybrid"
+
+    },
+    {
+        "id":6,
+        "name":"Physiology book",
+ "title": "Includes all the entertainment purpose ",
+ "price":500,
+ "category":"Physiology",
+"image":"https://img.freepik.com/free-photo/old-books-arrangement-with-light_23-2148898296.jpg?uid=R158565174&ga=GA1.1.43097808.1723290559&semt=ais_hybrid"
+
+    }
+
+    
+
+]
